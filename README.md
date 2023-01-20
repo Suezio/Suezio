@@ -1,4 +1,4 @@
-## Boas Vindas ao meu perfil 👋
+## Bem vindos ao meu perfil 👋
 
 Meu nome é Suézio Oliveira e sou completamente apaixonado por tecnologia e café, atuando nessa área desde 2019 💻
 
