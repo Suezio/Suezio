@@ -1,6 +1,6 @@
 ## Boas Vindas ao meu perfil 👋
 
-Meu nome é Suézio Oliveira e sou completamente apaixonado por tecnologia e café, atuando nessa área desde 2019 💻
+Meu nome é Suézio Oliveira e sou completamente apaixonado por tecnologia e um bom café, atuando nessa área desde 2019 💻
 
 Atualmente desenvolvendo as habilidades em React | Administração em Redes | DevOPS | Cloud Computing | SQL | Java | Microservices | Spring Boot
 
