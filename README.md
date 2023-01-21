@@ -8,9 +8,12 @@ Atualmente desenvolvendo as habilidades em React | Administração em Redes | De
 
 <!-- GITHUB STATUS -->
 <div align="center">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=suezio&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="215em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=suezio&show_icons=true&locale=en&layout=compact&langs_count=10&theme=radical"/>
 
+![Stats](https://github-readme-stats.vercel.app/api?username=NevilleMthw&layout=compact&theme=vision-friendly-dark)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Suezio&theme=vision-friendly-dark&hide_border=false)
+
+  <img height="240em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=suezio&show_icons=true&locale=en&layout=compact&langs_count=10&theme=vision-friendly-dark&hide_border=false"/>
 
   <!-- TEMAS: dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula -->
 </div>
@@ -25,6 +28,10 @@ Atualmente desenvolvendo as habilidades em React | Administração em Redes | De
 <a href="https://www.linkedin.com/in/sueziooliveira/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=Suezio)
+
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=NevilleMthw&style=for-the-badge&logo=appveyor" alt="GitHub Views"/>
+</div>
 
 </div>
 
