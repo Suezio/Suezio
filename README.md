@@ -5,7 +5,6 @@ Meu nome é Suézio Oliveira e sou completamente apaixonado por tecnologia e um 
 Atualmente desenvolvendo as habilidades em React | Administração em Redes | DevOPS | Cloud Computing | SQL | Java | Microservices | Spring Boot
 
 <br>
-<br>
 
 <!-- REDES SOCIAIS -->
 <h3 align="center">Conecte-se comigo:</h3>
@@ -14,28 +13,24 @@ Atualmente desenvolvendo as habilidades em React | Administração em Redes | De
 <a href="https://instagram.com/sueziooliveira" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/sueziooliveira/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
-
-
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=Suezio&style=for-the-badge&logo=appveyor" alt="GitHub Views"/>
 </div>
 
 </div>
 
-
+<br>
 <!-- GITHUB STATUS -->
 <div align="center">
 
-![Stats](https://github-readme-stats.vercel.app/api?username=NevilleMthw&layout=compact&theme=vision-friendly-dark)
+![Stats](https://github-readme-stats.vercel.app/api?username=Suezio&layout=compact&theme=vision-friendly-dark)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Suezio&theme=vision-friendly-dark&hide_border=false)
 
   <img height="238em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=suezio&show_icons=true&locale=en&layout=compact&langs_count=10&theme=vision-friendly-dark&hide_border=false"/>
 
-  <!-- TEMAS: dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula -->
+
 </div>
-
-
 
 <br>
 <h3 align="center">Linguagens e ferramentas:</h3>
